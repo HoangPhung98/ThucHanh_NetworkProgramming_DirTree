@@ -1,0 +1,11 @@
+﻿  Bai1_2.cpp
+C:\Users\PhungVanHoang\source\repos\Bai1_2\Bai1_2.cpp(36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PhungVanHoang\source\repos\Bai1_2\Bai1_2.cpp(53): warning C4307: '+': integral constant overflow
+C:\Users\PhungVanHoang\source\repos\Bai1_2\Bai1_2.cpp(70): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PhungVanHoang\source\repos\Bai1_2\Bai1_2.cpp(81): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PhungVanHoang\source\repos\Bai1_2\Bai1_2.cpp(108): warning C4129: '>': unrecognized character escape sequence
+C:\Users\PhungVanHoang\source\repos\Bai1_2\Bai1_2.cpp(127): warning C4129: '>': unrecognized character escape sequence
+C:\Users\PhungVanHoang\source\repos\Bai1_2\Bai1_2.cpp(136): warning C4129: '>': unrecognized character escape sequence
+C:\Users\PhungVanHoang\source\repos\Bai1_2\Bai1_2.cpp(143): warning C4307: '+': integral constant overflow
+C:\Users\PhungVanHoang\source\repos\Bai1_2\Bai1_2.cpp(148): warning C4129: '>': unrecognized character escape sequence
+  Bai1_2.vcxproj -> C:\Users\PhungVanHoang\source\repos\Bai1_2\Debug\Bai1_2.exe
